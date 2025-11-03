@@ -23,8 +23,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:r.woodcosta01@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ryanrs._)
+  [![Gmail](https://img.shields.io/badge/Gmail-00bfbf?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:r.woodcosta01@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-00bfbf?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ryanrs._)
 
 </div>
 
