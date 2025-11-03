@@ -45,7 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/gif-3PxgWdu#ahNsQx4.png" />
+img src="" width="0px" /
 </div>
 
 <!-- <div align="center">
